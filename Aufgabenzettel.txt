@@ -26,7 +26,7 @@ Zu empfehlen sind folgende Quellen:
 
 2)	ein .Net Core „Hello World“ Microservice erstellen (SHU 😊)
 
-( ) https://dotnet.microsoft.com/learn/web/aspnet-microservice-tutorial/intro 
+(/) https://dotnet.microsoft.com/learn/web/aspnet-microservice-tutorial/intro 
 ( ) und verstehen versuchen 
 ( ) und experimentieren (HÄ!)
 
