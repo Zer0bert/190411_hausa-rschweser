@@ -34,6 +34,18 @@ List all docker images: `docker image ls`
 
 Once the command completes, browse to http://localhost:3000/api/values.
 
+## Swagger integration
+
+Siehe: https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+
+Generated swagger json:
+run via visual studio: http://localhost:26177/swagger/v1/swagger.json
+run via dotnet: http://localhost:5000/swagger/v1/swagger.json
+
+Interactive:
+run via visual studio: http://localhost:26177/swagger/index.html
+run via dotnet: http://localhost:5000/swagger/index.html
+
 ---
 
 MD Help: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

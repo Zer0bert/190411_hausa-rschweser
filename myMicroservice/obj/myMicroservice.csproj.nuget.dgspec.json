@@ -59,9 +59,9 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
-            "Swashbuckle.Net45": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.2.1, )"
+              "version": "[4.0.1, )"
             }
           },
           "imports": [
