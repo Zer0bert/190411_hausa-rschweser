@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Swashbuckle.Net45": {
+              "target": "Package",
+              "version": "[5.2.1, )"
             }
           },
           "imports": [

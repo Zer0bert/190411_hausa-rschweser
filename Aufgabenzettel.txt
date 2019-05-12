@@ -36,8 +36,7 @@ Zu empfehlen sind folgende Quellen:
 ( ) Mediator
 
 4)	
-( ) mit Postman 
-( ) Swagger testen
+( ) mit Postman Swagger testen
 
 5)	
 (/) in ein Repository (unique mit Namen) publishen und Michael Sohar und mir ein Mail mit Link schicken
