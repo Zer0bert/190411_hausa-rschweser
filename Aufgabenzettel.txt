@@ -3,40 +3,40 @@ Aus email vom
 zum Üben vor dem nächsten Termin bitte 
 
 1)	C# und .Net Core Themen auffrischen 
-( ) Datentypen
-( ) Interfaces
-( ) Klassen & Vererbung, 
-( ) List, 
-( ) Collection, 
-( ) Enumerable, 
-( ) Generics, 
-( ) Enum, 
-( ) Nullable, 
-( ) Properties, 
-( ) Lambda, 
-( ) Delegates, 
-( ) Events, 
-( ) Async, 
-( ) Tuples
+(/) Datentypen
+(/) Interfaces
+(/) Klassen & Vererbung, 
+(/) List, 
+(/) Collection, 
+(/) Enumerable, 
+(/) Generics, 
+(/) Enum, 
+(/) Nullable, 
+(/) Properties, 
+(/) Lambda, 
+(/) Delegates, 
+(/) Events, 
+(/) Async, 
+(/) Tuples
 
 Zu empfehlen sind folgende Quellen:
-( ) https://docs.microsoft.com/de-de/dotnet/csharp/tutorials/ 
-( ) https://docs.microsoft.com/de-de/dotnet/core/
+(/) https://docs.microsoft.com/de-de/dotnet/csharp/tutorials/ 
+(/) https://docs.microsoft.com/de-de/dotnet/core/
 ( ) https://mva.microsoft.com/en-US/training-courses/ 
 
 2)	ein .Net Core „Hello World“ Microservice erstellen (SHU 😊)
 
 (x) https://dotnet.microsoft.com/learn/web/aspnet-microservice-tutorial/intro 
-( ) und verstehen versuchen 
-( ) und experimentieren (HÄ!)
+(/) und verstehen versuchen 
+(/) und experimentieren (HÄ!)
 
 3)	ein Pattern für das default-generierte Microservice implementieren 
 ( ) Factory, 
-( ) Adapter, 
+(x) Adapter, 
 ( ) Mediator
 
 4)	
-( ) mit Postman Swagger testen
+(/) mit Postman Swagger testen
 
 5)	
 (/) in ein Repository (unique mit Namen) publishen und Michael Sohar und mir ein Mail mit Link schicken

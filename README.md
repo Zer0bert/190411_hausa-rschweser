@@ -1,5 +1,11 @@
 # 190411_hausa-rschweser
 
+Some important information to my homework playground.
+
+## GitHub URL
+
+https://github.com/Zer0bert/190411_hausa-rschweser
+
 ## Create fresh microservice
 
 `dotnet new webapi -o myMicroservice --no-https`
@@ -36,7 +42,7 @@ Once the command completes, browse to http://localhost:3000/api/values.
 
 ## Swagger integration
 
-Siehe: https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+See: https://github.com/domaindrivendev/Swashbuckle.AspNetCore
 
 Generated swagger json:
 run via visual studio: http://localhost:26177/swagger/v1/swagger.json

@@ -4,5 +4,20 @@
         <name>myMicroservice</name>
     </assembly>
     <members>
+        <member name="T:myMicroservice.Model.CarManufacturerDataProvider">
+            <summary>
+            Creates list of car manufacturers.
+            </summary>
+        </member>
+        <member name="M:myMicroservice.Model.IXmlToJson.ConvertXmlToJson">
+            <summary>
+            Convert Xml to Json
+            </summary>
+        </member>
+        <member name="T:myMicroservice.Model.XmlToJsonAdapter">
+            <summary>
+            Xml To Json Adapter
+            </summary>
+        </member>
     </members>
 </doc>

@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
+using System.Xml.Linq;
 using Microsoft.AspNetCore.Mvc;
+using myMicroservice.Model;
 
 namespace myMicroservice.Controllers
 {
@@ -37,6 +39,15 @@ namespace myMicroservice.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+        }
+
+        // GET api/carmanu_as_xml
+        [HttpGet]
+        public XDocument GetCarManufacturersAsXml()
+        {
+            var xmlConverter = new XmlConverter();
+            XDocument xdoc = xmlConverter.GetXML();
+            return xdoc;
         }
     }
 }
